@@ -1,0 +1,7 @@
+{
+  "name": "Global Success 9 - English Master",
+  "description": "A modern, gamified English learning app for 9th-grade students following the Global Success curriculum. Features vocabulary, listening, and AI-powered speaking practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
